@@ -14,4 +14,7 @@ end
 def word_substituter(tweet)
   dictionary.each do |word, replacement|
     if tweet.include?(word)
-      word = replacement
+      word = dictionary[word]
+    end
+  end
+end
