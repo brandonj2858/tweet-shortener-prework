@@ -23,3 +23,6 @@ tweet.split.collect do |word|
   end
 end.join(" ")
 end
+
+def bulk_tweet_shortner(tweets)
+  puts tweets
