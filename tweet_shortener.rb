@@ -18,4 +18,5 @@ tweet.split.collect do |word|
   else
     word
   end
+end.join(" ")
 end
