@@ -12,6 +12,6 @@ dictionary = {
 end
 
 def word_substituter(tweet)
-tweet.split.collect do 
-  
+tweet.split.collect do |word|
+  if tweet.include?
 end
