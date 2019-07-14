@@ -1,3 +1,4 @@
+def dictionary
 dictionary = {
   "hello" => "hi"
   "to, two, too" => "2"
@@ -8,3 +9,4 @@ dictionary = {
   "and" => "&"
   
 }
+end
