@@ -8,7 +8,7 @@ dictionary = {
   "at" => "@",
   "and" => "&",
   "two" => "2",
-  "too" => "2"
+  "too" => "2",
   "four" => "4"
   
 }
