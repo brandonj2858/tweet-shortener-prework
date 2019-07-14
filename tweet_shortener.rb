@@ -12,5 +12,5 @@ dictionary = {
 end
 
 def word_substituter(tweet)
-  if tweet.includes
+  dictionary.each do 
   
